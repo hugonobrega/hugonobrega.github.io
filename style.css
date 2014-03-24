@@ -24,7 +24,13 @@ a:active {
 .name {
 	font-size:20pt;
 	color:#003366;
+	font-weight:bold;
 }
+.hidename {
+	color:#AAAAAA;
+	font-weight:normal;
+}
+
 div.container{	
 	margin-top: 50px;
 	margin-left: auto;
