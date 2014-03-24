@@ -1,0 +1,64 @@
+body {
+	color:#000000;
+	background-color:#FFFFFF;
+	font-family:sans-serif;
+	text-align:justify;
+}
+.floatText {
+	float:right; 
+	margin-left:25px; 
+	margin-bottom:15px;
+}
+a {
+	color:#0000cc; 
+	text-decoration:none; 
+}
+
+a:hover {
+	color:#FF9900; 
+	text-decoration:underline;
+}
+a:active {
+	color:#FF0000;
+}
+.name {
+	font-size:20pt;
+}
+div.container{	
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}		
+div.menu {
+	position:fixed;
+	color:#003366;
+	font-size:large;
+	width:220px;
+	margin-left:20px;
+	margin-right:auto;
+	text-align:left;
+}
+div.bg {
+	height:100%;
+	left: 0px;
+	top:0px;
+	width:220px;
+	background-color:#EEEEEE;
+	position:fixed;
+}
+div.main {  
+	width:66%;
+	margin-left: 250px;
+}
+.address {
+	font-size:smaller;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+a.menu {
+	font-family:Tahoma;
+	color:#003366;
+}
+a.menu:hover {
+	color:#FF9900;
+	text-decoration:none;
+}
