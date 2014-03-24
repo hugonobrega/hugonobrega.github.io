@@ -40,7 +40,7 @@ div.menu {
 	position:fixed;
 	color:#003366;
 	font-size:large;
-	width:220px;
+	width:200px;
 	margin-left:20px;
 	margin-right:auto;
 	text-align:left;
@@ -49,13 +49,13 @@ div.bg {
 	height:100%;
 	left: 0px;
 	top:0px;
-	width:220px;
+	width:230px;
 	background-color:#EEEEEE;
 	position:fixed;
 }
 div.main {  
 	width:66%;
-	margin-left: 250px;
+	margin-left: 260px;
 }
 .address {
 	font-size:smaller;
