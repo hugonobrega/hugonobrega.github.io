@@ -2,7 +2,11 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Hugo Nobrega's page</title>
+		{% if page.title %}
+			<title> {{ page.title }} </title>
+		{% else %}
+			<title>Hugo Nobrega's page</title>
+		{% endif %}
 		<link rel="stylesheet" href="style.css">
 	</head>
 	<body>
