@@ -79,6 +79,9 @@ a.menu:hover {
 	font-style:italic;
 	font-weight:bold;
 }
-th {
-	text-align:left;
+td.heading {
+	vertical-align:top;
+	width:100px;
+	font-weight:bold;
+	text-align:center;
 }
