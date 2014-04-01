@@ -70,10 +70,13 @@ a.menu:hover {
 	text-decoration:none;
 }
 .hc {
-	color:#009900;
-	font-style:italic
+	color:#006600;
+	font-style:italic;
+	font-weight:bold;
 }
 .wc {
-	color:#990099;
-	font-style:italic
+	color:#660066;
+	font-style:italic;
+	font-weight:bold;
 }
+>>>>>>> 15a056c1e6929943f23760c1ed6bcd6697100631
