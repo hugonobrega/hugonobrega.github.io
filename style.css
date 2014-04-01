@@ -71,9 +71,11 @@ a.menu:hover {
 }
 .hc {
 	color:#006600;
-	font-style:italic
+	font-style:italic;
+	font-weight:bold;
 }
 .wc {
 	color:#660066;
-	font-style:italic
+	font-style:italic;
+	font-weight:bold;
 }
