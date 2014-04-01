@@ -1,334 +1,53 @@
-		<table cellpadding="10" bgcolor=#DDDDDD> 							
-			<tr>
-				<th valign="top">5 February 2013</th> 
-				<th><i>Hoorcollege</i><br> 15-17<br> C1.112</th>
-				<td> 
-					Motivation (1): Set theory as a field of mathematics, 
-					paradoxes of the infinite, definition of "of equal size", 
-					Cantor's theorem without proof, existence of 
-					transcendental numbers, transfinite procedures. 
-					Motivation (2): Set theory as a foundations of mathematics.
-				</td>
-			</tr>		
-			<tr>
-				<th valign="top">8 February 2013</th> 
-				<th><i>Hoorcollege</i><br> 13-15<br> C1.112 </th>
+Motivation (1): Set theory as a field of mathematics, paradoxes of the infinite, definition of "of equal size", Cantor's theorem without proof, existence of transcendental numbers, transfinite procedures. Motivation (2): Set theory as a foundations of mathematics.
+
+
+Models of set theory as graphs. The language of set theory. The existence axiom, the extensionality axiom, the <i>Aussonderungsaxiom</i>. Proof that the empty set exists and is unique.
+
 				
-				<td> 
-					Models of set theory as graphs. The language of set theory. The existence axiom, the extensionality axiom, the <i>Aussonderungsaxiom</i>. Proof that the empty set exists and is unique.
-					<a href=2012-Ex1.pdf>Homework Set #1</a>
-				</td>
-			</tr>
-			
-			<tr>
-				<th valign="top">12 February 2013</th> 
-				<th><i>Hoorcollege</i><br> 15-17<br> C1.112 </th>
-				<td> 
-					Consistency proofs for very weak systems of set theory. The pairing 
-					axiom. Proof that no model of Ex+Ext+Aus+Pair can be finite. Desired set 
-					operations from our ordinary mathematical practice: the Cartesian 
-					product.
-				</td>
-			</tr>
-			
-			<tr>
-				<th valign="top">15 February 2013</th> <th><i>Hoorcollege</i><br> 13-15<br> C1.112 </th>									
-				<td> 
-					Operations defined by formulas; notational 
-					abbreviations in set theory. Proving that an operation is total. The 
-					binary union axiom and the power set axiom. Construction of the 
-					Cartesian product with binary union and power set.
-					
-					
-					<a href=2012-Ex2.pdf>Homework Set #2</a>
-					
-					
-					
-				</td>
-			</tr>
-			
-			
-			<tr>
-				<th valign="top">19 February 2013</th> 
-				<th><i>Hoorcollege</i><br> 15-17<br> C1.112 </th>
-				<td> Models of 
-					(Ex)+(Ext)+(Aus)+(Pow) are infinite. The union axiom and arbitrary unions 
-					and intersections. The axiom system <b>FST</b> of finite set theory. 
-					Relations and functions in <b>FST</b>.
-				</td>
-			</tr>
-			
-			<tr>
-				<th valign="top">22 February 2013</th> <th><i>Hoorcollege</i><br> 13-15<br> C1.112 </th>
-				<td>
-					Cantor's theorem. 
-					The model <b>HF</b> of the hereditarily finite sets. 
-					Dedekind-finiteness. Inductive sets. The axiom of infinity. (Brief discussion of HW set 
-					#1.)
-					
-					<a href=2012-Ex3.pdf>Homework Set #3</a>
-				</td>
-			</tr>
-			
-			<tr>
-				<th valign="top">26 February 2013</th> 
-				<th><i>Hoorcollege</i><br> 15-17<br> C1.112 </th>
-				
-				<td> 
-					
-					The definition of the natural numbers and the set of natural numbers. Properties of the 
-					natural numbers. Constructing the integers and rational numbers as set-theoretic 
-					quotients.
-				</td>
-			</tr>
-			
-			<tr>
-				<th valign="top">1 March 2013</th> <th><i>Hoorcollege</i><br> 
-				13-15<br> C1.112 </th>
-				
-				<td> 
-					Construction of the real numbers: Dedekind cuts. Size of infinite sets: the notion of 
-					equinumerosity. Zermelo set theory proves that there is an uncountable set. Skolem paradox.
-					
-					<a href=2012-Ex4.pdf>Homework Set #4</a>
-				</td>
-			</tr>
-			
-			<tr>
-				<th valign="top">5 March 2013</th> 
-				<th><i>Hoorcollege</i><br> 15-17<br> C1.112 </th>
-				
-				<td> 
-					Classes and proper classes. Examples of proper classes: there is no set of all singletons, 
-					no set of all groups, etc. For every non-empty set, the class of sets equinumerous to it is a 
-					proper class. The axiom scheme of Replacement. Sketch that if you iterate the <b>HF</b> 
-					construction, you get a model of <b>Z</b> in which Replacement is false. The axiom scheme of 
-					Foundation and the axiom of Foundation. 
-				</td>
-			</tr>
-			
-			<tr>
-				<th valign="top">8 March 2013</th> <th><i>Werkcollege</i><br> 
-				13-15<br> C1.112 </th>
-				
-				<td> 
-					
-					
-					<a href=2012-Ex5.pdf>Homework Set #5</a>
-				</td>
-			</tr>
-			
-			<tr>
-				<th valign="top">12 March 2013</th> 
-				<th><i>Hoorcollege</i><br> 15-17<br> C1.112 </th>
-				
-				<td> 
-					
-					Wellfoundedness. Principle of Induction, principle of weak induction, and least number 
-					principle on the natural numbers. Proof of the recursion theorem for functions on the natural 
-					numbers.
-				</td>
-			</tr>
-			
-			<tr>
-				<th valign="top">15 March 2013</th> <th><i>Werkcollege</i><br> 
-				13-15<br> C1.112 </th>
-				
-				<td> 
-					
-					
-					<a href=2012-Ex6.pdf>Homework Set #6</a>
-					
-				</td>
-			</tr>
-			
-			<tr>
-				<th valign="top">19 March 2013</th> 
-				<th><i>Hoorcollege</i><br> 15-17<br> C1.112 </th>
-				
-				<td> 
-					
-					Grassmann recursion equations for addition and multiplication on the 
-					natural numbers. Induction on wellorders. The recursion theorem for 
-					wellorders. Ordinals: the natural numbers are ordinals. Closure properties 
-					of ordinals. Statement of the fundamental theorem on wellorders (without 
-					proof).
-				</td>
-			</tr>
-			<tr>
-				<th valign="top">22 March 2013</th> <th><i>Werkcollege</i><br> 
-				13-15<br> C1.112 </th>
-				
-				<td> 
-					
-					
-					<a href=2012-Ex7.pdf>Homework Set #7</a>
-				</td>
-			</tr>
-			<tr>
-				<th valign="top">2 April 2013</th> 
-				<th><i>Hoorcollege</i><br> 13-15<br> C1.112 </th>
-				
-				<td> 
-					
-					Properties of ordinals: irreflexivity, 
-					linear order, wellfoundedness of the 
-					class of ordinals, transitive sets of 
-					ordinals are ordinals. Burali-Forti 
-					paradox: there is no set of all ordinals.
-					Class version of the recursion theorem. Application: ordinal addition. Some
-					properties of ordinal addition: failure of commutativity.
-				</td>
-			</tr>	
-			
-			<tr>
-				<th valign="top">3 April 2013</th> <th><i>Werkcollege</i><br> 
-				13-15<br> F1.02 </th> 
-				
-				<td> 
-					
-					
-					<a href=2012-Ex8.pdf>Homework Set #8</a>
-				</td>
-			</tr>	
-			<tr>
-				<th valign="top">9 April 2013</th> 
-				<th><i>Hoorcollege</i><br> 13-15<br> C1.112 </th>
-				
-				<td> 
-					
-					Limit ordinals. Ordinal multiplication and exponentiation. Gamma-, delta- and epsilon-numbers.
-					Normal ordinal operations and the fixed point theorem. The existence of uncountable ordinals via
-					the coding method of coding countable ordinals as subsets of the natural numbers.
-				</td>
-			</tr>		
-			<tr>
-				<th valign="top">10 April 2013</th> <th><i>Werkcollege</i><br> 
-				13-15<br> F1.02 </th> 
+Consistency proofs for very weak systems of set theory. The pairing axiom. Proof that no model of Ex+Ext+Aus+Pair can be finite. Desired set operations from our ordinary mathematical practice: the Cartesian product.
+
+
+Operations defined by formulas; notational abbreviations in set theory. Proving that an operation is total. The binary union axiom and the power set axiom. Construction of the Cartesian product with binary union and power set.
+
+
+Models of (Ex)+(Ext)+(Aus)+(Pow) are infinite. The union axiom and arbitrary unions and intersections. The axiom system <b>FST</b> of finite set theory. Relations and functions in <b>FST</b>.
 				
 				
-				<td> 
-					
-					
-					<a href=2012-Ex9.pdf>Homework Set #9</a>
-					
-					
-				</td>
-			</tr>
-			
-			
-			<tr>
-				<th valign="top">16 April 2013</th>
-				<th><i>Hoorcollege</i><br> 13-15<br> C1.112 </th>
+Cantor's theorem. The model <b>HF</b> of the hereditarily finite sets. Dedekind-finiteness. Inductive sets. The axiom of infinity. (Brief discussion of HW set #1.)
+	
+
+The definition of the natural numbers and the set of natural numbers. Properties of the natural numbers. Constructing the integers and rational numbers as set-theoretic quotients.
+							
 				
-				<td>
-					
-					Hartogs' Theorem. The aleph function and its properties. Fixed points of the aleph function and 
-					their size. Infinite cardinals. Proof that every wellordered set is in bijection with a 
-					cardinal. Zermelo's well-ordering theorem (without proof).
-				</td>
-			</tr>	
-			<tr>
-				<th valign="top">17 April 2013</th> <th><i>Werkcollege</i><br>
-				13-15<br> F1.02 </th> 
+Construction of the real numbers: Dedekind cuts. Size of infinite sets: the notion of equinumerosity. Zermelo set theory proves that there is an uncountable set. Skolem paradox.
+	
+	
+Classes and proper classes. Examples of proper classes: there is no set of all singletons, no set of all groups, etc. For every non-empty set, the class of sets equinumerous to it is a proper class. The axiom scheme of Replacement. Sketch that if you iterate the <b>HF</b> construction, you get a model of <b>Z</b> in which Replacement is false. The axiom scheme of Foundation and the axiom of Foundation. 
 				
-				<td>
-					
-					
-					<a href=2012-Ex10.pdf>Homework Set #10</a>
-					
-				</td>
-			</tr>
-			
-			<tr>
-				<th valign="top">23 April 2013</th>
-				<th><i>Hoorcollege</i><br> 13-15<br> C1.112 </th>
 				
-				<td>
-					
-					Proof of Zermelo's well-ordering theorem. Choice functions. The axiom of choice. Cardinality of sets in <b>ZFC</b>. Fragments of the axiom of 
-					choice. Some history of the axiom of choice and some consequences (without proof). Countable unions of countable sets are countable (using 
-					the countable axiom of choice).
-				</td>
-			</tr>	
-			<tr>
-				<th valign="top">24 April 2013</th> <th><i>Werkcollege</i><br>
-				13-15<br> F1.02 </th> 
+Wellfoundedness. Principle of Induction, principle of weak induction, and least number principle on the natural numbers. Proof of the recursion theorem for functions on the natural numbers.
 				
-				<td>
-					
-					
-					<a href=2012-Ex11.pdf>Homework Set #11</a>
-					
-				</td>
-			</tr>
-			
-			<tr>
-				<th valign="top">7 May 2013</th>
-				<th><i>Hoorcollege</i><br> 13-15<br> C1.112 </th>
 				
-				<td>
-					
-					The well-ordering theorem implies the Axiom of Choice. Zorn's lemma and its equivalence to the Axiom of 
-					Choice. Cardinal addition and multiplication. Proof that &kappa;+&kappa; = &kappa;. Hessenberg's theorem 
-					(without proof).
-				</td>
-			</tr>
-			<tr>
-				<th valign="top">8 May 2013</th> <th><i>Werkcollege</i><br>
-				13-15<br> F1.02 </th> 
+Grassmann recursion equations for addition and multiplication on the natural numbers. Induction on wellorders. The recursion theorem for wellorders. Ordinals: the natural numbers are ordinals. Closure properties of ordinals. Statement of the fundamental theorem on wellorders (without proof).
 				
-				<td>
-					
-					
-					<a href=2012-Ex12.pdf>Homework Set #12</a>
-					
-				</td>
-			</tr>
-			
-			<tr>
-				<th valign="top">14 May 2013</th>
-				<th><i>Hoorcollege</i><br> 13-15<br> C1.112 </th>
 				
-				<td>
-					
-					Proof of Hessenberg's Theorem. Cardinal exponentiation. The continuum function. Hausdorff's Formula. 
-				</td>
-			</tr>
-			<tr>
-				<th valign="top">15 May 2013</th> <th><i>Werkcollege</i><br>
-				13-15<br> F1.02 </th> 
+Properties of ordinals: irreflexivity, linear order, wellfoundedness of the class of ordinals, transitive sets of ordinals are ordinals. Burali-Forti paradox: there is no set of all ordinals.n Class version of the recursion theorem. Application: ordinal addition. Some properties of ordinal addition: failure of commutativity.
 				
-				<td>
-					
-				</td>
-			</tr>
-			
-			<tr>
-				<th valign="top">21 May 2013</th>
-				<th><i>Hoorcollege</i><br> 13-15<br> C1.112 </th>
 				
-				<td>
-					
-					Cofinality. The gimel function. Fundamental theorem of cardinal arithmetic 
-					(recursive determination of &kappa;<sup>&lambda;</sup> in terms of the continuum 
-					function and the gimel function. Von Neumann hierarchy. Mirimanoff rank. 
-					Characterization of the axiom 
-					of foundation in terms of the von Neumann hierarchy.
-					
-				</td>
-			</tr>
-			<tr>
-				<th valign="top">22 May 2013</th> <th><i>Werkcollege</i><br>
-				13-15<br> F1.02 </th> 
+Limit ordinals. Ordinal multiplication and exponentiation. Gamma-, delta- and epsilon-numbers. Normal ordinal operations and the fixed point theorem. The existence of uncountable ordinals via
+the coding method of coding countable ordinals as subsets of the natural numbers.
 				
-				<td>
-					
-					
-					<a href=TrainingExam.pdf>Training Exam</a>
-					
-				</td>
-			</tr>
-			
-			
-		</table>
+				
+Hartogs' Theorem. The aleph function and its properties. Fixed points of the aleph function and their size. Infinite cardinals. Proof that every wellordered set is in bijection with a cardinal. Zermelo's well-ordering theorem (without proof).
+				
+				
+Proof of Zermelo's well-ordering theorem. Choice functions. The axiom of choice. Cardinality of sets in <b>ZFC</b>. Fragments of the axiom of choice. Some history of the axiom of choice and some consequences (without proof). Countable unions of countable sets are countable (using the countable axiom of choice).
+				
+				
+The well-ordering theorem implies the Axiom of Choice. Zorn's lemma and its equivalence to the Axiom of Choice. Cardinal addition and multiplication. Proof that &kappa;+&kappa; = &kappa;. Hessenberg's theorem (without proof).
+				
+				
+Proof of Hessenberg's Theorem. Cardinal exponentiation. The continuum function. Hausdorff's Formula. 
+				
+				
+Cofinality. The gimel function. Fundamental theorem of cardinal arithmetic (recursive determination of &kappa;<sup>&lambda;</sup> in terms of the continuum function and the gimel function. Von Neumann hierarchy. Mirimanoff rank. Characterization of the axiom of foundation in terms of the von Neumann hierarchy.
