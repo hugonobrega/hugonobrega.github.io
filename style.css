@@ -69,3 +69,11 @@ a.menu:hover {
 	color:#FF9900;
 	text-decoration:none;
 }
+.hc {
+	color:#009900;
+	font-style:italic
+}
+.wc {
+	color:#990099;
+	font-style:italic
+}
