@@ -79,3 +79,6 @@ a.menu:hover {
 	font-style:italic;
 	font-weight:bold;
 }
+th {
+	text-align:left;
+}
