@@ -13,7 +13,7 @@ Operations defined by formulas; notational abbreviations in set theory. Proving 
 Models of (Ex)+(Ext)+(Aus)+(Pow) are infinite. The union axiom and arbitrary unions and intersections. The axiom system <b>FST</b> of finite set theory. Relations and functions in <b>FST</b>.
 				
 				
-Cantor's theorem. The model <b>HF</b> of the hereditarily finite sets. Dedekind-finiteness. Inductive sets. The axiom of infinity. (Brief discussion of HW set #1.)
+Cantor's theorem. The model <b>HF</b> of the hereditarily finite sets. Dedekind-finiteness. Inductive sets. The axiom of infinity.
 	
 
 The definition of the natural numbers and the set of natural numbers. Properties of the natural numbers. Constructing the integers and rational numbers as set-theoretic quotients.
