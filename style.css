@@ -79,8 +79,10 @@ a.menu:hover {
 	font-style:italic;
 	font-weight:bold;
 }
-td.heading {
+td {
 	vertical-align:top;
+}
+td.heading {
 	width:100px;
 	font-weight:bold;
 	text-align:center;
